@@ -1,6 +1,5 @@
-#include <iostream>
-
 #include "my_math.h"
+#include <iostream>
 
 int main() {
     int a = 10, b = 5;
