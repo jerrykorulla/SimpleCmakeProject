@@ -6,7 +6,7 @@ set(CMAKE_CXX_STANDARD_REQUIRED ON)
 set(CMAKE_CXX_EXTENSIONS OFF)
 
 # Create a library for the main application
-add_library(my_lib src/some_code.cpp)
+add_library(my_lib src/my_math.cpp)
 
 # Main application
 add_executable(my_app src/main.cpp)
